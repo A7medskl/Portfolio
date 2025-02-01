@@ -42,7 +42,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and activit
 
 4. Run the Flask server:
     ```bash
-    python proxy.py
+    python backend.py
     ```
 
 5. Open `index.html` in your browser.

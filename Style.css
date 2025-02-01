@@ -134,22 +134,22 @@ body {
     height: 3px;
     background: #4d4d4d;
     border-radius: 2px;
-    margin: 10px 0 5px; /* Adjust bottom margin to make space for time */
+    margin: 10px 0 5px; 
     position: relative;
 }
 
 .progress-bar {
-    width: 45%; /* Adjust percentage based on song progress */
+    width: 45%; 
     height: 100%;
     background: rgb(100, 0, 194);
     border-radius: 2px;
 }
 
 .time-info {
-    text-align: right; /* Align text to the right */
+    text-align: right; 
     font-size: 12px;
     color: #b0b0b0;
-    margin-top: 5px; /* Adds space below the progress bar */
+    margin-top: 5px; 
 }
 
 
