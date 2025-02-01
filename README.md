@@ -18,7 +18,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and activit
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/)
 - [Flask](https://flask.palletsprojects.com/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
 
@@ -32,7 +31,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and activit
 
 2. Install dependencies:
     ```bash
-    npm install
+    pip install flask
     pip install python-dotenv
     ```
 
@@ -53,10 +52,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and activit
 ### Lanyard API
 
 Fetches user data from the Lanyard API to display profile and activity information.
-
-### Spotify API
-
-Displays currently playing Spotify track.
 
 ### GitHub API
 
