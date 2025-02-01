@@ -20,6 +20,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and activit
 
 - [Flask](https://flask.palletsprojects.com/)
 - [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [flask-cors](https://pypi.org/project/Flask-Cors/)
 
 ### Installation
 
@@ -31,8 +32,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and activit
 
 2. Install dependencies:
     ```bash
-    pip install flask
-    pip install python-dotenv
+    pip install -r requirements.txt
     ```
 
 3. Create a `.env` file and add your Wakatime API key:
